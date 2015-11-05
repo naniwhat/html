@@ -177,8 +177,8 @@ p {
     width: 30px;
     height: 30px;
     background: white;
-    border-radius: 300px;
-    border: 1px solid black;
+    border-radius: 50%;
+    border: 1px solid #CECDCD;
 }
 
 .ssection {
